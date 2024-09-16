@@ -42,7 +42,7 @@ Energy-efficient computing: Ideal for IoT devices and low-power systems, potenti
 Challenges: Analog computing faces issues such as noise susceptibility, scalability, and design complexity, making it less versatile and harder to apply to general-purpose computing.
 Potential Future: The integration of hybrid analog-digital systems may offer a balanced solution, capitalizing on analog’s strengths while compensating for its limitations in precision and flexibility.
 
-##**Comparison Table**
+##Comparison Table
 Aspect      Analog Computing        Digital Computing
 Data        Continuous	            Discrete
 Precision	  Limited by noise	      High precision achievable
