@@ -30,7 +30,7 @@ Analog computers excel in specific tasks, such as solving differential equations
 - **Design complexity**: The complexity of designing analog circuits for general tasks is a major barrier.
 
 
-###Key Takeaways:
+### Key Takeaways:
 
 Analog Computing’s Resurgence: Although largely replaced by digital computing, recent advancements in neuromorphic engineering and AI have renewed interest in analog computing for specialized applications.
 Advantages Over Digital: Analog systems excel in real-time processing, energy efficiency, and tasks that involve continuous data representation (e.g., solving differential equations and simulating physical systems).
@@ -42,7 +42,7 @@ Energy-efficient computing: Ideal for IoT devices and low-power systems, potenti
 Challenges: Analog computing faces issues such as noise susceptibility, scalability, and design complexity, making it less versatile and harder to apply to general-purpose computing.
 Potential Future: The integration of hybrid analog-digital systems may offer a balanced solution, capitalizing on analog’s strengths while compensating for its limitations in precision and flexibility.
 
-##Comparison Table
+### Comparison Table
 Aspect      Analog Computing        Digital Computing
 Data        Continuous	            Discrete
 Precision	  Limited by noise	      High precision achievable
