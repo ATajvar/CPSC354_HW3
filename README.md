@@ -1,6 +1,6 @@
-# Literature Review on [Analog Computing in the Modern Era]
+# Literature Review on Analog Computing in the Modern Era
 
-## Name: [Arian Tajvar]
+## Name: Arian Tajvar
 
 ### Summary
 This literature review explores the possible resurgence of analog computing in the modern era, focusing on whether analog computers can become faster, more accurate, and applicable to general-purpose tasks. While analog computers were largely displaced by digital ones, recent developments in fields such as neuromorphic engineering and AI have revived interest. This review delves into potential applications, such as machine learning, optimization problems, and energy-efficient computing, while also examining the key challenges facing analog computing, such as precision and scalability.
