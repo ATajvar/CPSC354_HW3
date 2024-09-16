@@ -43,15 +43,21 @@ Challenges: Analog computing faces issues such as noise susceptibility, scalabil
 Potential Future: The integration of hybrid analog-digital systems may offer a balanced solution, capitalizing on analog’s strengths while compensating for its limitations in precision and flexibility.
 
 ### Comparison Table
-Aspect      Analog Computing        Digital Computing
-Data        Continuous	            Discrete
-Precision	  Limited by noise	      High precision achievable
-Speed       Faster situationally	  Consistently fast
-Energy Req.	Lower situationally	    Generally higher
-Flexibility	Less versatile	        Highly programmable
+Aspect      |  Analog Computing         |  Digital Computing
+
+Data        |  Continuous	              |  Discrete
+
+Precision	  |  Limited by noise	        |  High precision achievable
+
+Speed       |  Faster situationally	    |  Consistently fast
+
+Energy Req.	|  Lower situationally	    |  Generally higher
+
+Flexibility	|  Less versatile	          |  Highly programmable
 
 
-**Critical Information to Highlight**
+
+### Critical Information to Highlight
 Neuromorphic Engineering: Highlight that Carver Mead's work in neuromorphic systems is foundational for reviving interest in analog computing, especially for AI applications.
 Energy Efficiency: A key takeaway from recent research is analog computing's potential to drastically reduce power consumption, which is critical for next-gen IoT devices and autonomous systems.
 Real-Time Systems: Emphasize how analog systems provide speed advantages in real-time problem solving, particularly in domains like control systems and robotics.
